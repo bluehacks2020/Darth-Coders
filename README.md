@@ -16,8 +16,8 @@ Installation Guide:
 
 Application Guidelines:
 
--Language Used: C#
--IDE Used: Visual Studio 2019 Community
+- Language Used: C#
+- IDE Used: Visual Studio 2019 Community
 - Database Used: SQL
 - API Used: Speech/Voice Recognition
 
